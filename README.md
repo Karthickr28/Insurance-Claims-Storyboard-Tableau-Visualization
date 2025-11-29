@@ -13,18 +13,23 @@ Understanding the patterns and trends in claims data is equally essential. Insig
 
 **As a Lead Data Analyst at an Insurance Claims company, you are tasked with leveraging data to gain actionable insights from the Car Insurance Claims dataset. Your primary objective is to explore the dataset, identify patterns, and present your findings through an interactive and visually appealing storyboard.**
 **The project involves the following key deliverables:**
+
 **1.	Data Exploration and Visualization:**
 •	Conduct a thorough analysis of the dataset to uncover trends and anomalies.
 •	Use various visualizations to showcase relationships between features such as accident frequency, claim amounts, and policy types.
+
 **2.	Insight Development:**
 •	Interpret findings to provide meaningful insights that highlight key patterns in claims data.
 •	Identify factors contributing to higher claim rates and propose strategies to mitigate risks.
+
 **3.	Interactive Storyboard Creation:**
 •	Develop a minimum of five dashboards (excluding summary and insights dashboards) that present different aspects of the claims data.
 •	Ensure these dashboards are interactive, user-friendly, and visually consistent.
+
 **4.	Summary and Recommendations Dashboard:**
 •	Create a summary dashboard that encapsulates the key insights and provides actionable recommendations.
 •	This dashboard will serve as a quick reference for Senior Management to make data-driven decisions.
+
 **5.	Final Presentation to Senior Management:**
 •	Present a cohesive narrative through your storyboard, demonstrating how the insights align with business objectives.
 •	Highlight actionable recommendations to improve the claims process, optimize premium strategies, and enhance customer experience.
